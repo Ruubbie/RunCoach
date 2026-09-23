@@ -1,0 +1,5 @@
+RunCoach.xcodeproj/
+RunCoach/Info.plist
+build/
+Payload/
+*.ipa
